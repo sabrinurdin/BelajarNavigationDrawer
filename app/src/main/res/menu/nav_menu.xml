@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+<!--    <item-->
+<!--        android:id="@+id/nav_biografi_imam_bukhari"-->
+<!--        android:icon="@drawable/ic_baseline_person_24"-->
+<!--        android:title="Biografi Imam Bukhari"/>-->
+
+<!--    <item-->
+<!--        android:id="@+id/nav_biografi_imam_muslim"-->
+<!--        android:icon="@drawable/ic_baseline_person_24"-->
+<!--        android:title="Biografi Imam Muslim"/>-->
+
+<!--    <item-->
+<!--        android:id="@+id/nav_tentang"-->
+<!--        android:icon="@drawable/ic_baseline_person_24"-->
+<!--        android:title="Tentang"/>-->
+
+
+</menu>
